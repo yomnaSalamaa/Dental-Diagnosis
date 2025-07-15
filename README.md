@@ -38,12 +38,9 @@ This is a deep learning-based dental diagnosis web application built with **YOLO
 <img src="screenshots/disease_detection.png" width="500"/>
 
 ### 🧾 PDF Report Sample  
-<img src="screenshots/pdf_sample.png" width="400"/>
+<img src="screenshots/pdf_sample.png" width="400"/>  
 <img src="screenshots/pdf_sample2.png" width="400"/>
 
 ---
 
 ## 📂 Project Structure
-
-
-
