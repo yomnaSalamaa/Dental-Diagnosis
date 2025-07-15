@@ -1,0 +1,14 @@
+names:
+ 0: Amalgam filling
+ 1: composite filling
+ 2: crown
+ 3: implant
+roboflow:
+  license: CC BY 4.0
+  project: de-r0ca9
+  url: https://universe.roboflow.com/usety1975-ncrcr/de-r0ca9/dataset/2
+  version: 2
+  workspace: usety1975-ncrcr
+test: ../test/images
+train: ../train/images
+val: ../valid/images
