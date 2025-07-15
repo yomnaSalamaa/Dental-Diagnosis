@@ -1,5 +1,3 @@
-Dental-Diagnosis
-
 # 🦷 Dental X-ray Diagnosis System
 ===
 
