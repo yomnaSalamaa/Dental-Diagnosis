@@ -10,7 +10,7 @@ This is a deep learning-based dental diagnosis web application built with **YOLO
   Custom YOLOv8 model to detect and label individual teeth.
 
 - **Disease Detection**  
-  Second YOLOv8 model identifies dental conditions such as *Impacted Tooth*.
+  Second YOLOv8 model identifies dental conditions such as *Amalgam filling*, *Composite filling*, *crown*, and *Implant*.
 
 - **Combined Detection Mode**  
   Runs both models and shows a combined annotated output.
